@@ -1,6 +1,4 @@
-## Demo Website
-
-https://github-finder-jason.netlify.com/
+## Demo Website URL: https://github-finder-jason.netlify.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
